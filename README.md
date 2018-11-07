@@ -36,6 +36,7 @@ General API and MQTT configurations
 |COLLECT_ZONE_IDS|Array of zone id, all is *|
 
 Motion detected configurations, you can keep this as it.
+
 |Name|Description|
 |---|---|
 |MOTION_ALERT_PEOPLE_COUNT_THRESHOLD| The threshold of people count from the camera to start the detection mode|
