@@ -33,7 +33,7 @@ General API and MQTT configurations
 |MERAKI_API_KEY|Meraki Api key|
 |NETWORK_ID|Camera's network ID, will use this get video link with camera api|
 |COLLECT_CAMERAS_SERIAL_NUMBERS|Array of cameras serial numbers, all is *.|
-|COLLECT_ZONE_IDS|Array of zone id, all is *. eg ["*"]|
+|COLLECT_ZONE_IDS|Array of zone id, all is *|
 
 Motion detected configurations, you can keep this as it.
 |Name|Description|
