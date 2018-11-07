@@ -15,7 +15,7 @@ MERAKI_API_KEY = ""
 # Camera network ID, get video link
 NETWORK_ID = ""
 
-# Array of camaera serial numbers
+# Array of cameras serial numbers
 COLLECT_CAMERAS_SERIAL_NUMBERS = ["*"]
 # Array of zone id, all is *. eg ["*"]
 COLLECT_ZONE_IDS = [""]
