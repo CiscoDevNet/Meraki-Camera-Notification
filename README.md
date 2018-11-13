@@ -11,7 +11,7 @@ Leverage Meraki new camera API and MQTT capability to create a notification serv
 
 ### API
 
-[Camera API](https://documenter.getpostman.com/view/897512/2To9xm#20d8eb95-2b3c-41cb-98de-61222b4d32d1): Returns video link for the specified camera. If a timestamp supplied, it links to that time.
+[Camera API](https://dashboard.meraki.com/api_docs#cameras): Returns video link for the specified camera. If a timestamp supplied, it links to that time.
 
 ### MQTT and setting:
 
